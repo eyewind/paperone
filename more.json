@@ -1,0 +1,34 @@
+{
+    "version": 5,
+    "data": [
+	        {
+            "pkg": "com.ewdraw.doodle",
+            "name": "Happy Doodle",
+            "descript": "The doodle game could playback the doodle process as a cartoon.",
+            "name-zh": "开心涂鸦",
+            "descript-zh": "可以播放動畫的塗鴉遊戲"
+        },
+	
+        {
+            "pkg": "com.eyewind.paperone",
+            "name": "Paperone﹣Drawing board",
+            "descript": "Paper One is a painting application which is imitating the real paintbrush，you can drawing in your phone or tablet at anytime!",
+            "name-zh": "Paperone﹣繪畫板",
+            "descript-zh": "PaperOne是一款模擬真實畫筆的繪畫應用，瞬間把手機和平板變成你的手繪本，實現隨想隨畫！"
+        },
+        {
+            "pkg": "com.eyewind.phototext",
+            "name": "Phototext",
+            "descript": "Phototext is an image-text production application which is concise and fantastic !",
+            "name-zh": "Phototext",
+            "descript-zh": "Phototext是一款簡潔流暢的圖文製作應用"
+        },
+        {
+            "pkg": "com.ew.coloring.animal",
+            "name": "Animals Coloring Game",
+            "descript": "A realistic coloring experience just like working with actual pencils and paper!",
+            "name-zh": "動物塗色遊戲",
+            "descript-zh": "遊戲模擬真實的畫筆塗色，讓你享受最開心的塗色體驗！"
+        }
+    ]
+}
