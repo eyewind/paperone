@@ -1,6 +1,14 @@
 {
-    "version": 2,
+    "version": 3,
     "data": [
+
+ {
+            "pkg": "com.drawapp.magicdoodle",
+            "name": "Doodle Magic”,
+            "descript": "The doodle game could playback the doodle process as a cartoon.",
+            "name-zh": "开心涂鸦",
+            "descript-zh": "可以播放動畫的塗鴉遊戲"
+        },
 	        {
             "pkg": "com.ewdraw.doodle",
             "name": "Happy Doodle",
