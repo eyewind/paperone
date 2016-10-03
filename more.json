@@ -1,5 +1,5 @@
 {
-    "version": 3,
+    "version": 4,
     "data": [
 
  {
@@ -9,27 +9,20 @@
             "name-zh": "开心涂鸦",
             "descript-zh": "可以播放動畫的塗鴉遊戲"
         },
+	
+        {
+            "pkg": "com.inapp.incolor",
+            "name": "incolor",
+            "descript": "Paper One is a painting application which is imitating the real paintbrush，you can drawing in your phone or tablet at anytime!",
+            "name-zh": "Paperone﹣繪畫板",
+            "descript-zh": "PaperOne是一款模擬真實畫筆的繪畫應用，瞬間把手機和平板變成你的手繪本，實現隨想隨畫！"
+        },
 	        {
             "pkg": "com.ewdraw.doodle",
             "name": "Happy Doodle",
             "descript": "The doodle game could playback the doodle process as a cartoon.",
             "name-zh": "开心涂鸦",
             "descript-zh": "可以播放動畫的塗鴉遊戲"
-        },
-	
-        {
-            "pkg": "com.ew.coloring.princess",
-            "name": "princess",
-            "descript": "Paper One is a painting application which is imitating the real paintbrush，you can drawing in your phone or tablet at anytime!",
-            "name-zh": "Paperone﹣繪畫板",
-            "descript-zh": "PaperOne是一款模擬真實畫筆的繪畫應用，瞬間把手機和平板變成你的手繪本，實現隨想隨畫！"
-        },
-        {
-            "pkg": "com.eyewind.colorfit.mandala",
-            "name": "mandala",
-            "descript": "Phototext is an image-text production application which is concise and fantastic !",
-            "name-zh": "Phototext",
-            "descript-zh": "Phototext是一款簡潔流暢的圖文製作應用"
         }
     ]
 }
